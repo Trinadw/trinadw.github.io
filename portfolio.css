@@ -1,0 +1,53 @@
+body{
+	background-color: lightgrey;
+}
+header {
+	background-color: grey;
+	border-style: double;
+
+}
+
+
+footer {
+	font-size: 10;
+	text-align: center;
+}
+
+html  {font-family: "Arial", sans-serif;
+	}
+
+
+img.headImage{
+	float: right;
+	margin: 0 0 70px 70px;
+	border-style: double;
+}
+img.linkedin{
+	width:105;
+	height:105;
+}
+nav ul li{
+	display: inline;
+
+}
+
+nav ul li a{
+		text-align: right;
+}
+
+nav ul li a{
+	list-style-type: none;
+	color:black;
+
+
+}
+h1{
+	font-size: 70px;
+	text-align: center;
+}
+
+ul{
+	list-style-type: none;
+}
+
+

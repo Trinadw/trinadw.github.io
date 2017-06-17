@@ -4,10 +4,11 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<title>Trina Williford Portfolio</title>
-		<link href="https://fonts.googleapis.com/css?family=Bree+Serif|Raleway" rel="stylesheet">
+				<link href="https://fonts.googleapis.com/css?family=Bree+Serif|Raleway" rel="stylesheet">
 		<link href="portfolio.css" rel="stylesheet">
-		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
-		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+		
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 		
 	</head>
@@ -16,34 +17,37 @@
 
 			<header>
 				<div class="background">
-      			<h1>Trina Williford</h1>
-  				</div>
+  
+    <p>Trina Williford</p>
+  
+</div>
 				<nav>
 					<ul>
-						<li><a href="#AboutMe">About</a></li><li>
-						<a href="#Education">Education</a></li>
+						<li><a href="#AboutMe">About</a></li>
+						<li><a href="#Education">Education</a></li>
 						<li><a href="#Contact">Contact</a></li>  
 						<li><a href="#Projects">Projects</a></li>
 						
 					</ul>
 				</nav>
+				 </div>
+</div>
 			</header>
-					
+			
+			
+			
 			<main>
 			<section>
 			<div id="AboutMe">
-				<h2>About Me</h2>
-				<hr>
-					<h4>Biography</h4>
-					<p><img class="headImage" src="Black bkgrd.jpg" alt="Mypic" height="300" width="305">Trina Williford has more than 15 years in the telecommunications industry. She has worked in Compilance, Operations and Customer Service. Her expertise in these areas allowed her to foster relationships that were pivotal in resolving customer issues and identifying risks. Her dedication to researching issues allowed her to offer long-term solutions that supported company initiatives. 
-					During Trina's tenure in Operations she was able to identify return issue that led to a $5 million savings. Her attention to detail and critical-thinking allows her to produce valuable data that can be used all levels of leadership. Trina's communication skills and willingness to pitch in maker her a valuable team player. She is able to cultivate relationships throughout all levels of business. Trina has served as a subject matter expert for several teams she has worked on, lending her knowledgede of processes and procedures to fellow team-members. As a result of her experience and exceptional performance reviews, sher served as a mentor to co-workers struggling to meet theor productivity metrics.
-					Trina currently resides in Columbus, Ohio, where she is learning coding skills that will qualify her as an apprentice software developer. She is commited to learning skills that will make her an asset in any position she holds.</p>
-					<p>Trina is an extensive traveller, with a goal of traveling to each of the continents. She has visted more than 10 countries on four continents. Trina's love of travel has helped her to broaden her world view and allow her a unique perspective when approaching problems. She also enjoys volunteering with Big Brother Big Sister mentor and working registration at the March of Dimes Nurse of the year Awards dinner.
+				<h1>About Me</h1>
+				
+					<h3>Biography</h3>
+					<p><img class="headImage" src="Black bkgrd.jpg" alt="Mypic" height="280" width="285">Trina Williford resides in Columbus, Ohio. She is an apprentice software developer. She has more than 10 years of experinece in risk management, cost controls and internal audit.  She specializes in analyzing data, identifying trends and outliers resuling in efficient risk mitigation. During her career she has worked in Compliance, Customer Service Operations, and Customer Service.</p>
+					<p>Trina is an extensive traveller, with a goal of traveling to each of the continents. She has visted more than 10 countries on four continents. Trina's love of travel has helped her to broaden her world view and allows her a unique perspective when approaching problems. She also enjoys volunteering with Big Brother Big Sister mentor and working registration at the March of Dimes Nurse of the year Awards dinner.
 					</p>
 				</div>
-				<hr>
 				 <article id="Education">
-					<h4>Education</h4>
+					<h2>Education</h2>
 					<ul>
 					<li>Strayer University, M.B.A, PROFESSIONAL STUDIES, 2016</li>
 					<li>Webster University, M.A., COMMUNICATIONS MANAGEMENT, 2009</li>
@@ -51,9 +55,10 @@
 					<li>Villanova University, MASTERING PROJECT MANAGEMENT CERTIFICATE, 2010</li>
 					<li>We Can Code IT, SOFTWARE ENGINEERING CERTIFICATE, 2017</li>
 				</article>       
-				<hr>
-				<div class="listSkills">
-					<h4>Skills</h4>
+
+				
+					<div class="listSkills">
+						<h2>Skills</h2>
 						<ul>
 							<li>Java</li>
 							<li>Springs/Springs Boot</li>
@@ -66,22 +71,20 @@
 							<li>Source Control/Git</li>
 						</ul>
 					 </div>
-					 <hr>
 					 <div id="Contact">
-					 <h4>Contact</h4>
+					 <h2>Contact</h2>
 										 <p><i class="fa fa-phone" aria-hidden="true"></i> 314-707-7660</p>
 					 <p><i class="fa fa-envelope" aria-hidden="true"></i> triwil74@yahoo.com</p>
- 					<hr>					 </div>
-					<div>
-					<h4>Social Media</h4>
+ 										 </div>
+					 <div>
+					<h2>Social Media</h2>
 					 <p><img class="github" src="GitHub-Mark-32px.png" alt="github icon"><a target="_blank" href="https://github.com/Trinadw">Github</a></p> 
 					 <p><img class="linkedin" src="In-2C-101px-TM.png" alt="linkedin icon" height="45" width="50"><a target="_blank" href="https://www.linkedin.com/in/trina-williford/">Linkedin</a></p>
 					 </div>
 					 </section>
-					 <hr>
 					 <section>
-						<div id="Projects">
-						<h2>Projects</h2>
+					<div id="Projects">
+						<h1>Projects</h1>
 						<article>
 						<p><a target="_blank" href="https://www.github.com/Trinadw/fortune-teller">Fortune Teller App</a></p>
 						<img class="FTeller" src="FortuneTeller.jpg" alt="fortune teller console" height="90" width="100">
@@ -92,14 +95,14 @@
 						</article>
 						<article>
 						<p><a target="_blank" href="https://github.com/Trinadw/virtual-pet-shelter">Virtual Pet Shelter App</a></p>
-						<img class="VPet" src="VPShelter.jpg" alt="virtual pet shelter console" height="90" width="100">
+						<img class="VPet" src="VPShelter.jpg" alt="virtual pet shelter console" height="115" width="145">
 						</article>
 
 						<!--use for picture link to something else: <a href="#" target="_blank">
     <img src="https://s3.amazonaws.com/codecademy-content/courses/web-101/web101-image_brownbear.jpg" /></a>
 
    link to page from picture <a href="https://en.wikipedia.org/wiki/Brown_bear" target="-blank"><img src="https://s3.amazonaws.com/codecademy-content/courses/web-101/web101-image_brownbear.jpg" alt="brown bear"/></a>-->
-						</div>
+					</div>
 					</section>
 				
 			</main>
