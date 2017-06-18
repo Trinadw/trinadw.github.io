@@ -20,7 +20,8 @@ html  {font-family: "Arial", sans-serif;
 img.headImage{
 	float: right;
 	margin: 0 0 70px 70px;
-	border-style: double;
+	padding-right: 25px;
+
 }
 img.linkedin{
 	width:105;
@@ -33,6 +34,7 @@ nav ul li{
 
 nav {
 		text-align: right;
+		padding-right: 25px;
 }
 
 nav ul li a{
@@ -46,8 +48,7 @@ h1{
 	text-align: center;
 }
 
-ul{
-	list-style-type: none;
-}
+
+
 
 
