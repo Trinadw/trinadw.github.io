@@ -16,17 +16,29 @@ footer {
 html  {font-family: "Arial", sans-serif;
 	}
 
+img.FTeller{
+	border-style: double;
+}
 
 img.headImage{
 	float: right;
-	margin: 0 0 70px 70px;
-	padding-right: 25px;
+	margin: 0px 70px;
+	border-style: solid;
+	height:430px;
+	width:315px;
 
 }
 img.linkedin{
 	width:105;
 	height:105;
 }
+img.VPet{
+	border-style: double;
+}
+img.VPetShel{
+	border-style: double;
+}
+
 nav ul li{
 	display: inline;
 
@@ -34,7 +46,8 @@ nav ul li{
 
 nav {
 		text-align: right;
-		padding-right: 25px;
+		padding-right: 10px;
+		border-style: double;
 }
 
 nav ul li a{
